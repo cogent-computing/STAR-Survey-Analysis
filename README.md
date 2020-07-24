@@ -21,3 +21,6 @@ The dataset also contains GPS co-ordinates to zoom in
 # Publications
 
 * Energies Paper - ToBeAdded
+
+# Reference: 
+[![DOI](https://zenodo.org/badge/282187252.svg)](https://zenodo.org/badge/latestdoi/282187252)
