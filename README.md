@@ -18,6 +18,6 @@ The dataset also contains GPS co-ordinates to zoom in on these communities.
 Each row entry in this dataset represents a community in the Amazon region of Brazil, and the column titles provide precise descriptions of the data entries.
 The dataset also contains GPS co-ordinates to zoom in
 
-#Publications
+# Publications
 
 * Energies Paper - ToBeAdded
